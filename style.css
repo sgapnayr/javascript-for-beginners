@@ -1,0 +1,17 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#button {
+  color: white;
+  background-color: blue;
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+#button:active {
+  background-color: rgb(88, 88, 255);
+}
