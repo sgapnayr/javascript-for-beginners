@@ -13,5 +13,6 @@
 }
 
 #button:active {
+  color: white;
   background-color: rgb(88, 88, 255);
 }
